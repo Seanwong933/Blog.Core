@@ -18,3 +18,13 @@ E:\my-study\NetCore\Blog.Core\Blog.Core.Model\obj\Debug\netcoreapp2.1\Blog.Core.
 E:\my-study\NetCore\Blog.Core\Blog.Core.Model\obj\Debug\netcoreapp2.1\Blog.Core.Model.dll
 E:\my-study\NetCore\Blog.Core\Blog.Core.Model\obj\Debug\netcoreapp2.1\Blog.Core.Model.pdb
 E:\my-study\NetCore\Blog.Core\Blog.Core.Model\obj\Debug\netcoreapp2.1\Blog.Core.Model.csprojAssemblyReference.cache
+G:\Projects\NetCoreBlog\Blog.Core\Blog.Core.Model\bin\Debug\netcoreapp2.1\Blog.Core.Model.deps.json
+G:\Projects\NetCoreBlog\Blog.Core\Blog.Core.Model\bin\Debug\netcoreapp2.1\Blog.Core.Model.dll
+G:\Projects\NetCoreBlog\Blog.Core\Blog.Core.Model\bin\Debug\netcoreapp2.1\Blog.Core.Model.pdb
+G:\Projects\NetCoreBlog\Blog.Core\Blog.Core.Model\bin\Debug\netcoreapp2.1\Blog.Core.Model.xml
+G:\Projects\NetCoreBlog\Blog.Core\Blog.Core.Model\obj\Debug\netcoreapp2.1\Blog.Core.Model.csprojAssemblyReference.cache
+G:\Projects\NetCoreBlog\Blog.Core\Blog.Core.Model\obj\Debug\netcoreapp2.1\Blog.Core.Model.csproj.CoreCompileInputs.cache
+G:\Projects\NetCoreBlog\Blog.Core\Blog.Core.Model\obj\Debug\netcoreapp2.1\Blog.Core.Model.AssemblyInfoInputs.cache
+G:\Projects\NetCoreBlog\Blog.Core\Blog.Core.Model\obj\Debug\netcoreapp2.1\Blog.Core.Model.AssemblyInfo.cs
+G:\Projects\NetCoreBlog\Blog.Core\Blog.Core.Model\obj\Debug\netcoreapp2.1\Blog.Core.Model.dll
+G:\Projects\NetCoreBlog\Blog.Core\Blog.Core.Model\obj\Debug\netcoreapp2.1\Blog.Core.Model.pdb

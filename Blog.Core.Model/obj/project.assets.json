@@ -681,23 +681,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\v-anzha\\.nuget\\packages\\": {},
+    "C:\\Users\\Siegrain\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\my-study\\NetCore\\Blog.Core\\Blog.Core.Model\\Blog.Core.Model.csproj",
+      "projectUniqueName": "G:\\Projects\\NetCoreBlog\\Blog.Core\\Blog.Core.Model\\Blog.Core.Model.csproj",
       "projectName": "Blog.Core.Model",
-      "projectPath": "E:\\my-study\\NetCore\\Blog.Core\\Blog.Core.Model\\Blog.Core.Model.csproj",
-      "packagesPath": "C:\\Users\\v-anzha\\.nuget\\packages\\",
-      "outputPath": "E:\\my-study\\NetCore\\Blog.Core\\Blog.Core.Model\\obj\\",
+      "projectPath": "G:\\Projects\\NetCoreBlog\\Blog.Core\\Blog.Core.Model\\Blog.Core.Model.csproj",
+      "packagesPath": "C:\\Users\\Siegrain\\.nuget\\packages\\",
+      "outputPath": "G:\\Projects\\NetCoreBlog\\Blog.Core\\Blog.Core.Model\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\v-anzha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Siegrain\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -705,9 +705,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "D:\\work_files": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://mscosmos.pkgs.visualstudio.com/_packaging/CosmosProd/nuget/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp2.1": {

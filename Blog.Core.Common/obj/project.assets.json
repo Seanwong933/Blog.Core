@@ -2290,10 +2290,11 @@
       ]
     },
     "StackExchange.Redis/1.2.6": {
-      "sha512": "uBzdFmPmsCJWZ/Iau85+2Ogal6nPiY5gT8pl2gA7R4dQ14GwRpwyTGkTuD1+hgHVuBW+zkCSnysmWc7h277r/g==",
+      "sha512": "LAjOIrAYa5aA7JZZOLuVjKFSo/kFB/8VpI5x9h3O/jYAsymAuhntmMR18ERHqoXEU0Nv2D2Sk6JQjxwwjUqZrw==",
       "type": "package",
       "path": "stackexchange.redis/1.2.6",
       "files": [
+        ".signature.p7s",
         "lib/net45/StackExchange.Redis.dll",
         "lib/net45/StackExchange.Redis.xml",
         "lib/net46/StackExchange.Redis.dll",
@@ -4939,23 +4940,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\v-anzha\\.nuget\\packages\\": {},
+    "C:\\Users\\Siegrain\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\my-study\\NetCore\\Blog.Core\\Blog.Core.Common\\Blog.Core.Common.csproj",
+      "projectUniqueName": "G:\\Projects\\NetCoreBlog\\Blog.Core\\Blog.Core.Common\\Blog.Core.Common.csproj",
       "projectName": "Blog.Core.Common",
-      "projectPath": "E:\\my-study\\NetCore\\Blog.Core\\Blog.Core.Common\\Blog.Core.Common.csproj",
-      "packagesPath": "C:\\Users\\v-anzha\\.nuget\\packages\\",
-      "outputPath": "E:\\my-study\\NetCore\\Blog.Core\\Blog.Core.Common\\obj\\",
+      "projectPath": "G:\\Projects\\NetCoreBlog\\Blog.Core\\Blog.Core.Common\\Blog.Core.Common.csproj",
+      "packagesPath": "C:\\Users\\Siegrain\\.nuget\\packages\\",
+      "outputPath": "G:\\Projects\\NetCoreBlog\\Blog.Core\\Blog.Core.Common\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\v-anzha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Siegrain\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4963,9 +4964,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "D:\\work_files": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://mscosmos.pkgs.visualstudio.com/_packaging/CosmosProd/nuget/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp2.1": {

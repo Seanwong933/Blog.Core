@@ -24,3 +24,16 @@ E:\my-study\NetCore\Blog.Core\Blog.Core.IRepository\obj\Debug\netcoreapp2.1\Blog
 E:\my-study\NetCore\Blog.Core\Blog.Core.IRepository\obj\Debug\netcoreapp2.1\Blog.Core.IRepository.dll
 E:\my-study\NetCore\Blog.Core\Blog.Core.IRepository\obj\Debug\netcoreapp2.1\Blog.Core.IRepository.pdb
 E:\my-study\NetCore\Blog.Core\Blog.Core.IRepository\obj\Debug\netcoreapp2.1\Blog.Core.IRepository.csprojAssemblyReference.cache
+G:\Projects\NetCoreBlog\Blog.Core\Blog.Core.IRepository\bin\Debug\netcoreapp2.1\Blog.Core.IRepository.deps.json
+G:\Projects\NetCoreBlog\Blog.Core\Blog.Core.IRepository\bin\Debug\netcoreapp2.1\Blog.Core.IRepository.dll
+G:\Projects\NetCoreBlog\Blog.Core\Blog.Core.IRepository\bin\Debug\netcoreapp2.1\Blog.Core.IRepository.pdb
+G:\Projects\NetCoreBlog\Blog.Core\Blog.Core.IRepository\bin\Debug\netcoreapp2.1\Blog.Core.Model.dll
+G:\Projects\NetCoreBlog\Blog.Core\Blog.Core.IRepository\bin\Debug\netcoreapp2.1\Blog.Core.Model.pdb
+G:\Projects\NetCoreBlog\Blog.Core\Blog.Core.IRepository\bin\Debug\netcoreapp2.1\Blog.Core.Model.xml
+G:\Projects\NetCoreBlog\Blog.Core\Blog.Core.IRepository\obj\Debug\netcoreapp2.1\Blog.Core.IRepository.csprojAssemblyReference.cache
+G:\Projects\NetCoreBlog\Blog.Core\Blog.Core.IRepository\obj\Debug\netcoreapp2.1\Blog.Core.IRepository.csproj.CoreCompileInputs.cache
+G:\Projects\NetCoreBlog\Blog.Core\Blog.Core.IRepository\obj\Debug\netcoreapp2.1\Blog.Core.IRepository.AssemblyInfoInputs.cache
+G:\Projects\NetCoreBlog\Blog.Core\Blog.Core.IRepository\obj\Debug\netcoreapp2.1\Blog.Core.IRepository.AssemblyInfo.cs
+G:\Projects\NetCoreBlog\Blog.Core\Blog.Core.IRepository\obj\Debug\netcoreapp2.1\Blog.Core.IRepository.csproj.CopyComplete
+G:\Projects\NetCoreBlog\Blog.Core\Blog.Core.IRepository\obj\Debug\netcoreapp2.1\Blog.Core.IRepository.dll
+G:\Projects\NetCoreBlog\Blog.Core\Blog.Core.IRepository\obj\Debug\netcoreapp2.1\Blog.Core.IRepository.pdb
